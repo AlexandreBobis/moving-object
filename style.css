@@ -1,0 +1,8 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#canvas {
+    border: solid #000 2px;
+    border-radius: 5px;
+}
